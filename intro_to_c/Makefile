@@ -46,7 +46,7 @@ LIB=$(MTH)
 COMMON=
 
 # Directorios que serán compilados a un programa
-PROGRAMS=0_hello_world 1_tipos_basicos
+PROGRAMS=0_hello_world 1_tipos_basicos 2_control_flujo
 
 # Todos los directorios que contienen archivos de código
 SRCDIR=$(COMMON) $(PROGRAMS)
