@@ -47,7 +47,7 @@ COMMON=
 
 # Directorios que serán compilados a un programa
 PROGRAMS=0_hello_world 1_tipos_basicos 2_control_flujo 3_funciones_y_stack \
-				4_pointers
+				4_pointers 5_arreglos 6_memoria 7_structs
 
 # Todos los directorios que contienen archivos de código
 SRCDIR=$(COMMON) $(PROGRAMS)
